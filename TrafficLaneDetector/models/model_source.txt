@@ -1,0 +1,4 @@
+https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2
+https://drive.google.com/file/d/1oEjJraFr-3lxhX_OXduAGFWalWa6Xh3W/view
+
+CULANE_res18.pth converted to onnx
