@@ -1,0 +1,370 @@
+{
+  "A-1": {
+    "type": "Warning",
+    "name": "Dangerous bend to the right"
+  },
+  "A-11": {
+    "type": "Warning",
+    "name": "Speed hump"
+  },
+  "A-11a": {
+    "type": "Warning",
+    "name": "Uneven road (speed hump)"
+  },
+  "A-12a": {
+    "type": "Warning",
+    "name": "Road narrows - on both sides"
+  },
+  "A-14": {
+    "type": "Warning",
+    "name": "Road works"
+  },
+  "A-15": {
+    "type": "Warning",
+    "name": "Slippery road"
+  },
+  "A-16": {
+    "type": "Warning",
+    "name": "Pedestrian crossing"
+  },
+  "A-17": {
+    "type": "Warning",
+    "name": "Children"
+  },
+  "A-18b": {
+    "type": "Warning",
+    "name": "Wild animals"
+  },
+  "A-2": {
+    "type": "Warning",
+    "name": "Dangerous bend to the left"
+  },
+  "A-20": {
+    "type": "Warning",
+    "name": "Two-way traffic"
+  },
+  "A-21": {
+    "type": "Warning",
+    "name": "Tramway"
+  },
+  "A-24": {
+    "type": "Warning",
+    "name": "Cyclists"
+  },
+  "A-29": {
+    "type": "Warning",
+    "name": "Traffic lights"
+  },
+  "A-3": {
+    "type": "Warning",
+    "name": "Dangerous bends – first to the right"
+  },
+  "A-30": {
+    "type": "Warning",
+    "name": "Other dangers"
+  },
+  "A-32": {
+    "type": "Warning",
+    "name": "Icy road"
+  },
+  "A-4": {
+    "type": "Warning",
+    "name": "Dangerous bends – first to the left"
+  },
+  "A-6a": {
+    "type": "Warning",
+    "name": "Crossroads"
+  },
+  "A-6b": {
+    "type": "Warning",
+    "name": "Crossroads with a minor road to the right"
+  },
+  "A-6c": {
+    "type": "Warning",
+    "name": "Crossroads with a minor road to the left"
+  },
+  "A-6d": {
+    "type": "Warning",
+    "name": "Crossroads with minor roads on both sides"
+  },
+  "A-6e": {
+    "type": "Warning",
+    "name": "Intersection with roads of similar importance (give way to the right)"
+  },
+  "A-7": {
+    "type": "Warning",
+    "name": "Give way"
+  },
+  "A-8": {
+    "type": "Warning",
+    "name": "Intersection with a priority road"
+  },
+  "B-1": {
+    "type": "Prohibitory",
+    "name": "No entry for all vehicles (both directions)"
+  },
+  "B-18": {
+    "type": "Prohibitory",
+    "name": "No entry for vehicles with an actual total mass exceeding ... t"
+  },
+  "B-2": {
+    "type": "Prohibitory",
+    "name": "No entry"
+  },
+  "B-20": {
+    "type": "Prohibitory",
+    "name": "Stop"
+  },
+  "B-21": {
+    "type": "Prohibitory",
+    "name": "No left turn"
+  },
+  "B-22": {
+    "type": "Prohibitory",
+    "name": "No right turn"
+  },
+  "B-25": {
+    "type": "Prohibitory",
+    "name": "No overtaking for lorries"
+  },
+  "B-26": {
+    "type": "Prohibitory",
+    "name": "No overtaking"
+  },
+  "B-27": {
+    "type": "Prohibitory",
+    "name": "No overtaking for lorries"
+  },
+  "B-33": {
+    "type": "Prohibitory",
+    "name": "Speed limit"
+  },
+  "B-34": {
+    "type": "Prohibitory",
+    "name": "End of speed limit"
+  },
+  "B-36": {
+    "type": "Prohibitory",
+    "name": "No stopping"
+  },
+  "B-41": {
+    "type": "Prohibitory",
+    "name": "No pedestrians"
+  },
+  "B-42": {
+    "type": "Prohibitory",
+    "name": "End of all prohibitions"
+  },
+  "B-43": {
+    "type": "Prohibitory",
+    "name": "Limited speed zone"
+  },
+  "B-44": {
+    "type": "Prohibitory",
+    "name": "End of limited speed zone"
+  },
+  "B-5": {
+    "type": "Prohibitory",
+    "name": "No entry for lorries"
+  },
+  "B-6-B-8-B-9": {
+    "type": "Prohibitory",
+    "name": "No entry for agricultural tractors, animal-drawn vehicles, motorcycles"
+  },
+  "B-8": {
+    "type": "Prohibitory",
+    "name": "No entry for animal-drawn vehicles"
+  },
+  "B-9": {
+    "type": "Prohibitory",
+    "name": "No entry for mopeds"
+  },
+  "C-10": {
+    "type": "Mandatory",
+    "name": "Pass on right"
+  },
+  "C-12": {
+    "type": "Mandatory",
+    "name": "Pass on left"
+  },
+  "C-13": {
+    "type": "Mandatory",
+    "name": "Cycle path"
+  },
+  "C-13-C-16": {
+    "type": "Mandatory",
+    "name": "Shared path for pedestrians and cyclists"
+  },
+  "C-13a": {
+    "type": "Mandatory",
+    "name": "End of cycle path"
+  },
+  "C-13a-C-16a": {
+    "type": "Mandatory",
+    "name": "End of shared path for pedestrians and cyclists"
+  },
+  "C-16": {
+    "type": "Mandatory",
+    "name": "Pedestrian path"
+  },
+  "C-2": {
+    "type": "Mandatory",
+    "name": "Turn right ahead"
+  },
+  "C-4": {
+    "type": "Mandatory",
+    "name": "Turn left ahead"
+  },
+  "C-5": {
+    "type": "Mandatory",
+    "name": "Proceed straight"
+  },
+  "C-6": {
+    "type": "Mandatory",
+    "name": "Proceed straight or turn right"
+  },
+  "C-7": {
+    "type": "Mandatory",
+    "name": "Proceed straight or turn left"
+  },
+  "C-9": {
+    "type": "Mandatory",
+    "name": "Pass on right of obstruction"
+  },
+  "D-1": {
+    "type": "Information",
+    "name": "Priority road"
+  },
+  "D-14": {
+    "type": "Information",
+    "name": "End of lane"
+  },
+  "D-15": {
+    "type": "Information",
+    "name": "Lanes for vehicles"
+  },
+  "D-18": {
+    "type": "Information",
+    "name": "Parking"
+  },
+  "D-18b": {
+    "type": "Information",
+    "name": "Parking for motorcycles only"
+  },
+  "D-2": {
+    "type": "Information",
+    "name": "End of priority road"
+  },
+  "D-21": {
+    "type": "Information",
+    "name": "Hospital"
+  },
+  "D-23": {
+    "type": "Information",
+    "name": "Petrol station"
+  },
+  "D-23a": {
+    "type": "Information",
+    "name": "LPG station"
+  },
+  "D-24": {
+    "type": "Information",
+    "name": "Telephone"
+  },
+  "D-26": {
+    "type": "Information",
+    "name": "Information point for drivers"
+  },
+  "D-26b": {
+    "type": "Information",
+    "name": "Camping site"
+  },
+  "D-26c": {
+    "type": "Information",
+    "name": "Tent site"
+  },
+  "D-27": {
+    "type": "Information",
+    "name": "Hotel"
+  },
+  "D-28": {
+    "type": "Information",
+    "name": "Motel"
+  },
+  "D-29": {
+    "type": "Information",
+    "name": "Inn / Roadside restaurant"
+  },
+  "D-3": {
+    "type": "Information",
+    "name": "One-way street"
+  },
+  "D-40": {
+    "type": "Information",
+    "name": "Residential zone"
+  },
+  "D-41": {
+    "type": "Information",
+    "name": "End of residential zone"
+  },
+  "D-42": {
+    "type": "Information",
+    "name": "State border"
+  },
+  "D-43": {
+    "type": "Information",
+    "name": "Cycle path (combined with pedestrian)"
+  },
+  "D-4a": {
+    "type": "Information",
+    "name": "Lane use arrows"
+  },
+  "D-4b": {
+    "type": "Information",
+    "name": "Lane use arrow"
+  },
+  "D-51": {
+    "type": "Information",
+    "name": "Motorway"
+  },
+  "D-52": {
+    "type": "Information",
+    "name": "End of motorway"
+  },
+  "D-53": {
+    "type": "Information",
+    "name": "Expressway"
+  },
+  "D-6": {
+    "type": "Information",
+    "name": "Pedestrian crossing"
+  },
+  "D-6b": {
+    "type": "Information",
+    "name": "Cyclist crossing"
+  },
+  "D-7": {
+    "type": "Information",
+    "name": "Expressway"
+  },
+  "D-8": {
+    "type": "Information",
+    "name": "Beginning or continuation of a dual carriageway"
+  },
+  "D-9": {
+    "type": "Information",
+    "name": "End of dual carriageway"
+  },
+  "D-tablica": {
+    "type": "Information",
+    "name": "Pre-direction sign board"
+  },
+  "G-1a": {
+    "type": "Auxiliary",
+    "name": "Distance to sign plate"
+  },
+  "G-3": {
+    "type": "Auxiliary",
+    "name": "Railway crossing"
+  }
+}

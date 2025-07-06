@@ -1,0 +1,370 @@
+{
+  "A-1": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Niebezpieczny zakręt w prawo"
+  },
+  "A-11": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Próg zwalniający"
+  },
+  "A-11a": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Próg zwalniający (nierówna droga)"
+  },
+  "A-12a": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Zwężenie jezdni - dwustronne"
+  },
+  "A-14": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Roboty na drodze"
+  },
+  "A-15": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Śliska jezdnia"
+  },
+  "A-16": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Przejście dla pieszych"
+  },
+  "A-17": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Dzieci"
+  },
+  "A-18b": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Zwierzęta dzikie"
+  },
+  "A-2": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Niebezpieczny zakręt w lewo"
+  },
+  "A-20": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Odcinek jezdni o ruchu dwukierunkowym"
+  },
+  "A-21": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Tramwaj"
+  },
+  "A-24": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Rowerzyści"
+  },
+  "A-29": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Sygnały świetlne"
+  },
+  "A-3": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Niebezpieczne zakręty – pierwszy w prawo"
+  },
+  "A-30": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Inne niebezpieczeństwa"
+  },
+  "A-32": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Oszronienie jezdni"
+  },
+  "A-4": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Niebezpieczne zakręty – pierwszy w lewo"
+  },
+  "A-6a": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Skrzyżowanie dróg"
+  },
+  "A-6b": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Skrzyżowanie z drogą podporządkowaną występującą po prawej stronie"
+  },
+  "A-6c": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Skrzyżowanie z drogą podporządkowaną występującą po lewej stronie"
+  },
+  "A-6d": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Skrzyżowanie z drogą podporządkowaną występującą po obu stronach"
+  },
+  "A-6e": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Krzyżowanie się dróg o podobnym znaczeniu z pierwszeństwem dla nadjeżdżających z prawej strony"
+  },
+  "A-7": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "Ustąp pierwszeństwa"
+  },
+  "A-8": {
+    "rodzaj": "Ostrzegawcze",
+    "nazwa": "A-8 Skrzyżowanie z drogą z pierwszeństwem"
+  },
+  "B-1": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz ruchu w obu kierunkach"
+  },
+  "B-18": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad ... t"
+  },
+  "B-2": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wjazdu"
+  },
+  "B-20": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Stop"
+  },
+  "B-21": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz skręcania w lewo"
+  },
+  "B-22": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz skręcania w prawo"
+  },
+  "B-25": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wyprzedzania przez samochody ciężarowe"
+  },
+  "B-26": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wyprzedzania"
+  },
+  "B-27": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wyprzedzania przez samochody ciężarowe"
+  },
+  "B-33": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Ograniczenie prędkości"
+  },
+  "B-34": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Koniec ograniczenia prędkości"
+  },
+  "B-36": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz zatrzymywania się"
+  },
+  "B-41": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz ruchu pieszych"
+  },
+  "B-42": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Koniec zakazów"
+  },
+  "B-43": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Strefa ograniczonej prędkości"
+  },
+  "B-44": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Koniec strefy ograniczonej prędkości"
+  },
+  "B-5": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wjazdu samochodów ciężarowych"
+  },
+  "B-6-B-8-B-9": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wjazdu ciągników rolniczych, pojazdów zaprzęgowych, motocykli"
+  },
+  "B-8": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wjazdu pojazdów zaprzęgowych"
+  },
+  "B-9": {
+    "rodzaj": "Zakazu",
+    "nazwa": "Zakaz wjazdu motorowerów"
+  },
+  "C-10": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy z prawej strony znaku"
+  },
+  "C-12": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy z lewej strony znaku"
+  },
+  "C-13": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Droga dla rowerów"
+  },
+  "C-13-C-16": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Droga dla pieszych i rowerów"
+  },
+  "C-13a": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Koniec drogi dla rowerów"
+  },
+  "C-13a-C-16a": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Koniec drogi dla pieszych i rowerów"
+  },
+  "C-16": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Droga dla pieszych"
+  },
+  "C-2": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy w prawo za znakiem"
+  },
+  "C-4": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy w lewo za znakiem"
+  },
+  "C-5": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy prosto"
+  },
+  "C-6": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy prosto lub w prawo"
+  },
+  "C-7": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy prosto lub w lewo"
+  },
+  "C-9": {
+    "rodzaj": "Nakazu",
+    "nazwa": "Nakaz jazdy z prawej strony przeszkody"
+  },
+  "D-1": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Droga z pierwszeństwem"
+  },
+  "D-14": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Koniec pasa ruchu"
+  },
+  "D-15": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Pasy ruchu dla pojazdów"
+  },
+  "D-18": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Parking"
+  },
+  "D-18b": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Parking tylko dla motocykli"
+  },
+  "D-2": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Koniec drogi z pierwszeństwem"
+  },
+  "D-21": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Szpital"
+  },
+  "D-23": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Stacja paliwowa"
+  },
+  "D-23a": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Stacja paliwowa (LPG)"
+  },
+  "D-24": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Telefon"
+  },
+  "D-26": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Punia informacyjna dla kierowców"
+  },
+  "D-26b": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Kemping"
+  },
+  "D-26c": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Pole namiotowe"
+  },
+  "D-27": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Hotel"
+  },
+  "D-28": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Motel"
+  },
+  "D-29": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Zajazd"
+  },
+  "D-3": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Droga jednokierunkowa"
+  },
+  "D-40": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Strefa zamieszkania"
+  },
+  "D-41": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Koniec strefy zamieszkania"
+  },
+  "D-42": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Granica państwa"
+  },
+  "D-43": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Droga dla rowerów (łączona z pieszą)"
+  },
+  "D-4a": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Kierunki na pasach ruchu"
+  },
+  "D-4b": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Kierunki na pasie ruchu"
+  },
+  "D-51": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Autostrada"
+  },
+  "D-52": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Koniec autostrady"
+  },
+  "D-53": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Droga ekspresowa"
+  },
+  "D-6": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Przejście dla pieszych"
+  },
+  "D-6b": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Przejazd dla rowerzystów"
+  },
+  "D-7": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Droga ekspresowa"
+  },
+  "D-8": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Początek lub kontynuacja drogi dwujezdniowej"
+  },
+  "D-9": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Koniec drogi dwujezdniowej"
+  },
+  "D-tablica": {
+    "rodzaj": "Informacyjne",
+    "nazwa": "Tablica przed drogowskazem"
+  },
+  "G-1a": {
+    "rodzaj": "Dodatkowe",
+    "nazwa": "Tabliczka wskazująca odległość do znaku"
+  },
+  "G-3": {
+    "rodzaj": "Dodatkowe",
+    "nazwa": "Przejazd kolejowy "
+  }
+}
