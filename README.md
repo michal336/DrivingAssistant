@@ -96,7 +96,7 @@ The system supports a wide range of signs defined in `signs_en.json` and `signs_
 * Make sure input signs in video are visible and large enough for the secondary sign classifier.
 * Ensure minimum object size (`>35x35 px`) for sign classification to activate.
 * For consistent FPS, you can adjust the inference frequency (`counter % 5`, etc.).
-* Lane detection system: [Vehicle-CV-ADAS](https://github.com/jason-li-831202/Vehicle-CV-ADAS) which was using [Ultra-Fast-Lane-Detection-v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2)
+* Lane detection system inspiration: [Vehicle-CV-ADAS](https://github.com/jason-li-831202/Vehicle-CV-ADAS) which was using [Ultra-Fast-Lane-Detection-v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2)
 
 ---
 
