@@ -1,0 +1,7 @@
+Set,Photos,Car,Different-Traffic-Sign,Red-Traffic-Light,Pedestrian,Warning-Sign,Pedestrian-Crossing,Green-Traffic-Light,Prohibition-Sign,Truck,Speed-Limit-Sign,Motorcycle
+Test Set,166,687,547,163,137,79,82,52,48,66,22,4
+Train Set,1178,4766,3370,805,812,544,476,402,396,409,230,38
+Validation Set,327,1343,945,232,228,163,112,87,112,137,59,10
+Test Set (Augmented),996,4122,3282,978,822,474,492,312,288,396,132,24
+Train Set (Augmented),7068,28596,20220,4830,4872,3264,2856,2412,2376,2454,1380,228
+Validation Set (Augmented),1962,8058,5670,1392,1368,978,672,522,672,822,354,60
