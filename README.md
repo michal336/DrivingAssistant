@@ -2,7 +2,7 @@
 
 # 🚗 Real-Time Traffic Sign and Lane Detection using YOLO and UFLD
 
-This project performs real-time detection and tracking of traffic signs, lane lines, and traffic lights using **YOLOv8** and **Ultrafast Lane Detection (UFLD)** with ONNX models. The system is designed to be used with dashcam video input and can annotate frames with recognized road signs and lane information.
+This project performs real-time detection and tracking of traffic signs, lane lines, and traffic lights using **YOLO11n** and **Ultrafast Lane Detection v2 (UFLDv2)** with ONNX models. The system is designed to be used with dashcam video input and can annotate frames with recognized road signs and lane information.
 
 ---
 
