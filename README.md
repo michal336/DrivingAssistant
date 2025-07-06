@@ -23,7 +23,7 @@ Ensure you have the following Python packages installed:
 ```bash
 pip install onnxruntime opencv-python numpy ultralytics
 ```
-You also need models. Get CULANE_res18 from: [Ultra-Fast-Lane-Detection-v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) [Googlew drive](https://drive.google.com/file/d/1oEjJraFr-3lxhX_OXduAGFWalWa6Xh3W/view)
+You also need models. Get CULANE_res18 from: [Ultra-Fast-Lane-Detection-v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) [Googlew drive](https://drive.google.com/file/d/1oEjJraFr-3lxhX_OXduAGFWalWa6Xh3W/view) and convert it to onnx
 
 Also, install the custom lane detection module `TrafficLaneDetector` (provided in the project directory).
 
